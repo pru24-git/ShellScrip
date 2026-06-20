@@ -1,0 +1,47 @@
+Comments Questions
+
+11. Add a single-line comment:
+
+This is my first shell script
+
+and print:
+
+Hello World
+
+12. Add three comments describing the script:
+
+Author Name
+Date
+Purpose of the script
+
+Then print:
+
+Learning Comments
+
+13. Write a script that contains comments before every executable line.
+
+Example:
+
+# Print welcome message
+# Print practice message
+
+14. Write a script that contains 5 comment lines and 2 echo statements.
+
+Expected output:
+
+Shell Scripting
+Practice Daily
+
+15. Create a script header using comments.
+
+Example:
+
+Script Name
+Author
+Created Date
+Version
+Description
+
+Then print:
+
+Script Started
